@@ -1,5 +1,5 @@
 {
-    "name": "ultraware/roles",
+    "name": "siaminator/roles",
     "description": "Powerful package for handling roles and permissions in Laravel 5.",
     "keywords": [
         "roles",
